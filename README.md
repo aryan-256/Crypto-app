@@ -1,4 +1,4 @@
-#Crypto-Portfolio App
+# Crypto-Portfolio App
 
 The Crypto-Portfolio App is a single-page application that allows users to manage their cryptocurrency portfolios. It enables wallet connection, viewing token balances, historical data, checking allowances, and performing token transfers.
 # Features
